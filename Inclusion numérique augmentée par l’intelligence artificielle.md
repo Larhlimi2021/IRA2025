@@ -1,3 +1,17 @@
+# Inclusion numérique boostée par l’intelligence artificielle : levier stratégique pour une économie sociale et solidaire durable et équitable
+
+**Résumé**
+
+L'inclusion numérique est devenue un pilier essentiel du développement durable, en particulier pour les populations marginalisées. L'intelligence artificielle (IA), notamment l'IA générative, offre des opportunités significatives pour combler la fracture numérique et promouvoir l'autonomisation au sein de l'économie sociale et solidaire (ESS). 
+
+Cette communication examine des cas concrets au Maroc, en Afrique subsaharienne, en Amérique latine et en Europe, illustrant l'utilisation de l'IA pour faciliter l'accès aux services essentiels, à l'éducation et à la gestion coopérative. Une analyse critique des implications éthiques est également menée, accompagnée de recommandations opérationnelles pour une intégration responsable de l'IA dans les initiatives d'ESS. 
+
+L'objectif est de démontrer que l'IA, lorsqu'elle est alignée sur les principes de solidarité et d'équité, peut être un vecteur de transformation sociale durable.
+
+**Mots-clés :** inclusion numérique, intelligence artificielle, économie sociale et solidaire, développement durable, éthique technologique
+
+
+
 # Inclusion numérique augmentée par l’intelligence artificielle
 
 ## Analyse de l'inclusion numérique
