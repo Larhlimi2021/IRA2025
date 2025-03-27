@@ -1,4 +1,5 @@
 # Inclusion numérique boostée par l’intelligence artificielle : levier stratégique pour une économie sociale et solidaire durable et équitable
+# IRA 2025
 
 ## A. Larhlimi
 ###  Expert Consultant Intégrateur Système - Expert IA et Ingénierie Générative - Enseignant Chercheur 
