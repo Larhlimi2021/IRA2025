@@ -1,7 +1,7 @@
 # Inclusion numérique boostée par l’intelligence artificielle : levier stratégique pour une économie sociale et solidaire durable et équitable
 
-# A. Larhlimi
-#  Expert Consultant Intégrateur Système - Expert IA et Ingénierie Générative - Enseignant Chercheur 
+## A. Larhlimi
+###  Expert Consultant Intégrateur Système - Expert IA et Ingénierie Générative - Enseignant Chercheur 
 ## abderrahim.larhlimi@uhp.ac.ma
 
 **Résumé**
