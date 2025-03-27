@@ -2,6 +2,7 @@
 
 # A. Larhlimi
 #  Expert Consultant Intégrateur Système - Expert IA et Ingénierie Générative - Enseignant Chercheur 
+## abderrahim.larhlimi@uhp.ac.ma
 
 **Résumé**
 
